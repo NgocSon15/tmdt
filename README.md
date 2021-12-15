@@ -217,12 +217,4 @@ php bin/magento setup:static-content:deploy
 
 [Một số tài liệu thêm có thể tìm thấy ở trong phần Tài liệu](https://github.com/inFngNam/2021II_INT3506_1/tree/main/T%C3%A0i%20li%E1%BB%87u)
 
-### Thành viên trong nhóm
-
-1. Nguyễn Văn Nam - 18020920
-2. Lê Thị Tâm - 18021118
-3. Nguyễn Thị Xuân - 18021451
-
-
-
 
