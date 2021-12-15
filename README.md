@@ -215,6 +215,3 @@ php bin/magento setup:static-content:deploy
 
 [Một số hướng dẫn cơ bản của Magento 2](https://devdocs.magento.com/videos/fundamentals/)
 
-[Một số tài liệu thêm có thể tìm thấy ở trong phần Tài liệu](https://github.com/inFngNam/2021II_INT3506_1/tree/main/T%C3%A0i%20li%E1%BB%87u)
-
-
