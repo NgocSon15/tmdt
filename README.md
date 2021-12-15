@@ -148,12 +148,11 @@ Sử dụng **Access Keys** từ trên nhập vào theo yêu cầu
   php bin/magento module:disable Magento_TwoFactorAuth
   ```
 
-
 4. Cài đặt cập nhật để Magento có thể chạy bình thường
 
   Update module
   ```bash
-  php php bin/magento setup:upgrade
+  php bin/magento setup:upgrade
   ```
 
   Compile source code
@@ -185,6 +184,12 @@ Sử dụng **Access Keys** từ trên nhập vào theo yêu cầu
 
   Sau khi truy cập vào đương link trang đăng nhập quản trị của admin thì sử dụng thông tin đã đăng ký từ trước trong khi cài đặt magento để đăng nhập vào.
 
+- Reindex
+
+  ```bash
+  php bin/magento indexer:reindex
+  ```
+
 
 ### Add modules
 
@@ -214,4 +219,3 @@ php bin/magento setup:static-content:deploy
 [Cài đặt theme cho Magento 2](https://www.mageworx.com/blog/how-to-install-a-theme-in-magento-2)
 
 [Một số hướng dẫn cơ bản của Magento 2](https://devdocs.magento.com/videos/fundamentals/)
-
